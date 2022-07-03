@@ -2,7 +2,7 @@
 안녕하세요 👋
 항상 도전하고 배우는 것을 즐기며, 빠르게 성장하는 개발자 조건우입니다.   
    
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />   
 ## 경력
 * 티맥스 백엔드 개발자 2022.07.15 ~
 * VanF 백엔드 프리랜서 2021.03.31 ~ 2021.11.30 
