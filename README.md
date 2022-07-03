@@ -5,7 +5,10 @@
 ![](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white")
 ![](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-
+![](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white)
+![](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F32?logo=AWS&logoColor=white)
    
 ## 경력
 * 티맥스 백엔드 개발자 2022.07.15 ~
