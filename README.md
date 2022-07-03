@@ -1,5 +1,5 @@
-### 백엔드 개발자 조건우입니다. 👋
+### 안녕하세요. 백엔드 개발자 조건우입니다 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwbro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+* 2022.07.15~ 티맥스 백엔드 개발자
+* 2021.03.31~2021.11.30 VanF 백엔드 프리랜서
+* 2020.12.31~2021.02.12 오늘의 픽업 백엔드 개발자
