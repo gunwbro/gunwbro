@@ -2,10 +2,14 @@
 안녕하세요 👋   
 항상 도전하고 배우는 것을 즐기며, 빠르게 성장하는 개발자 조건우입니다.   
    
-![](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white")
 ![](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/c++-00599C?logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/c++-00599C?logo=C%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/c-00599C?logo=C%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-C%23-239120?logo=Csharp&style=flat)
+![](https://img.shields.io/badge/Java-00599C?logo=C%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)   
+![](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white")
 ![](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
