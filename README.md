@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning ...
 
 ![gunwbro's github stats](https://github-readme-stats.vercel.app/api?username=gunwbro&show_icons=true)
+[![gunwbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwbro)](https://github.com/anuraghazra/github-readme-stats)
