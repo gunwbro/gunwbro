@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Github%20Actions-2088FF?logo=Github%20Actions&logoColor=white)
 
 ## 경력
-* 티맥스 백엔드 개발자 2022.07.15 ~
+* 티맥스 A&C 연구원 2022.07.15 ~
 * VanF 백엔드 프리랜서 2021.03.31 ~ 2021.11.30 
 * 오늘의 픽업 백엔드 개발자 2020.12.31 ~ 2021.02.12 
 
