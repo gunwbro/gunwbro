@@ -14,9 +14,10 @@
 ![](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=white)   
 ![](https://img.shields.io/badge/Amazon%20AWS-232F32?logo=Amazon%20AWS&logoColor=white)
-![](https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=white)
-![](https://img.shields.io/badge/Github%20Actions-2088FF?logo=Github%20Actions&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
 
 ## 경력
 * 티맥스 WAPL Meeting 서버 개발자 2022.07 ~
