@@ -1,5 +1,5 @@
 # Gunwoo Jo
-안녕하세요 👋   
+안녕하세요   
 항상 도전하고 배우는 것을 즐기며, 빠르게 성장하는 개발자 조건우입니다.   
    
 ![](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
