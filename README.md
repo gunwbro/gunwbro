@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
 
 ## 경력
-* 티맥스 OS Meeting 서버 개발자 2022.07 ~
+* 티맥스 OS Meeting 서버 연구원 2022.07 ~
 * Fanpick 백엔드 프리랜서 2021.07 ~ 2021.11
 * Bitcoin Legend 백엔드 프리랜서 2021.03 ~ 2021.07
 * 오늘의 픽업 백엔드 인턴 2020.12 ~ 2021.02 
