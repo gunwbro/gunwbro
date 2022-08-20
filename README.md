@@ -1,11 +1,9 @@
 # Gunwoo Jo
-안녕하세요   
-항상 도전하고 배우는 것을 즐기며, 빠르게 성장하는 개발자 조건우입니다.   
+안녕하세용   
+개발자 조건우입니다.   
    
 ![](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-C%23-239120?logo=Csharp&style=flat)
-![](https://img.shields.io/badge/Java-00599C?logo=%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)   
