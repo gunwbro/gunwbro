@@ -2,11 +2,9 @@
 안녕하세용   
 개발자 조건우입니다.   
       
-![](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-C%23-239120?logo=Csharp&style=flat)
-![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007acc?logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)   
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)   
 ![](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white")
 ![](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)
