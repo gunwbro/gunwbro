@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white")
 ![](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)   
 ![](https://img.shields.io/badge/Amazon%20AWS-232F32?logo=Amazon%20AWS&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
