@@ -1,5 +1,5 @@
 # Gunwoo Jo
-안녕하세용   
+안녕하세요   
 개발자 조건우입니다.   
       
 ![](https://img.shields.io/badge/TypeScript-007acc?logo=TypeScript&logoColor=white)
