@@ -1,4 +1,4 @@
-# Gunwoo Jo
+# Geonwoo Jo
 안녕하세요.   
 개발자 조건우입니다.   
       
