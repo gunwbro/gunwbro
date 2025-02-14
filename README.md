@@ -1,7 +1,5 @@
 # Geonwoo Jo
-안녕하세요.   
-개발자 조건우입니다.   
-      
+## 기술
 ![](https://img.shields.io/badge/TypeScript-007acc?logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Java-FF7800?logo=Java&logoColor=white)
