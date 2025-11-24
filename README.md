@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white)
 
 ## 경력
-* 올거나이즈 DevOps Engineer 2025.04 ~   
+* 올거나이즈 DevOps Engineer 2025.04 ~ 2025.11   
 * 티맥스 클라우드 연구원 2022.07 ~ 2024.08
 * 오늘의 픽업 백엔드 개발자 2020.12 ~ 2021.02
 
